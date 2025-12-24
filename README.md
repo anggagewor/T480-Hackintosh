@@ -1,4 +1,4 @@
-# T480 Hackintosh (macOS Sequoia)
+# T480 Hackintosh (macOS Sonoma)
 
 Hackintosh setup untuk **Lenovo ThinkPad T480**, dibuat sebagai backup dan dokumentasi konfigurasi pribadi.
 Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
@@ -19,10 +19,10 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 | CPU        | Intel Core i5-8350U (4C / 8T) |
 | iGPU       | Intel UHD Graphics 620        |
 | RAM        | 32 GB DDR4                    |
-| Storage    | NVMe SSD 512 GB               |
+| Storage    | m.2 SSD 512 GB               |
 | Layar      | 14" FHD 1920x1080             |
 | Audio      | Realtek (ALC series)          |
-| Wi‑Fi      | Intel (via OpenCore patch)    |
+| Wi‑Fi      | Intel (Heliport - Sonoma)    |
 | Bluetooth  | Intel Bluetooth               |
 | Camera     | Internal Webcam               |
 | Keyboard   | ThinkPad Keyboard (Backlight) |
