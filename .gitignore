@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Finder / Spotlight
+.Spotlight-V100
+.Trashes
+
+# OpenCore generated / runtime files
+EFI/OC/Logs/
+EFI/OC/.contentVisibility
+
+# NVRAM / dumps (if any)
+*.nvram
+*.dump
+
+# Personal / sensitive files
+*.plist.bak
+*.plist.old
+*.plist.backup
+
+# Serial & SMBIOS related (keep config.plist clean)
+serial.txt
+smuuid.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Windows junk (just in case)
+Thumbs.db
