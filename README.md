@@ -47,8 +47,11 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 * Intel UHD 620 QE/CI
 * Sleep & Wake
 * Audio (Speaker & Jack)
+  * (bug) kadang suara hilang, workaround nya buka system setting > sound (magic suara lgsg ada)
 * Wi‑Fi
-* Bluetooth
+* Bluetooth (partial)
+  * TWS (work)
+  * wireless keyboard/mouse (x)
 * Ethernet
 * USB Mapping
 * Trackpad & TrackPoint
