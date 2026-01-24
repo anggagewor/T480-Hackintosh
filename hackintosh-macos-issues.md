@@ -80,5 +80,3 @@ Dokumen ini berisi rangkuman kendala yang gue alami saat pakai Hackintosh di beb
 - [ ] Coba disable fitur power saving tertentu
 
 ---
-
-_Last updated: _(isi sendiri nanti)_  
