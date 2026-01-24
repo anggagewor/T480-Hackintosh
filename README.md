@@ -106,9 +106,19 @@ T480-Hackintosh
 
 ## 🙏 Credits
 
-* Acidanthera (OpenCore)
-* Dortania Guide
-* Hackintosh Community
+Proyek ini dibuat dengan referensi dari **banyak sumber** dan kontribusi komunitas Hackintosh. Kredit dan apresiasi sebesar-besarnya untuk:
+
+* **Acidanthera** — OpenCore Bootloader & ecosystem
+* **Dortania Guide** — Dokumentasi dan panduan resmi Hackintosh
+* **Hackintosh Community** — Forum, Discord, Reddit, dan berbagai sharing pengalaman
+
+Referensi spesifik ThinkPad T480:
+* **MultimediaLucario**
+  https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480
+  (sebagai salah satu referensi utama konfigurasi Lenovo ThinkPad T480)
+
+Tanpa dokumentasi, riset, dan eksperimen dari banyak pihak, setup ini tidak akan bisa mencapai stabilitas harian.
+
 
 ---
 
@@ -119,3 +129,17 @@ Gunakan repo ini **atas risiko sendiri**. Saya tidak bertanggung jawab atas keru
 ---
 
 Happy Hackintoshing 🍎
+
+
+## 📚 Dokumentasi Tambahan
+
+Beberapa catatan dan panduan tambahan yang dipakai di setup ini:
+
+- 🔌 [USB Mapping Guide](usbtool.md)
+  Catatan proses USB mapping + tool yang dipakai.
+
+- ⚡ [CPU Undervolt Notes](undervolt.md)
+  Pengaturan undervolt, testing stabilitas, dan dampaknya ke suhu & baterai.
+
+- 🧪 [Known Issues & Bugs](hackintosh-macos-issues.md)
+  Daftar kendala Hackintosh (Sonoma / Sequoia), workaround, dan status issue.
