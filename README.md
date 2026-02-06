@@ -20,7 +20,7 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 | iGPU       | Intel UHD Graphics 620        |
 | RAM        | 32 GB DDR4                    |
 | Storage    | m.2 SSD 512 GB               |
-| Storage    | nvme gen3x2 WD SN520 256               |
+| Storage    | nvme gen3x2 WD SN520 256 B+M (WWAN)              |
 | Layar      | 14" FHD 1920x1080             |
 | Audio      | Realtek (ALC series)          |
 | Wi‑Fi      | Intel (Heliport - Sonoma)    |
