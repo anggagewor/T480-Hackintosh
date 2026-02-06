@@ -52,6 +52,7 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 * Wi‑Fi
 * Bluetooth (partial)
   * TWS (work)
+  * PS4 Wireless Controller (Work)
   * wireless keyboard/mouse (x)
 * Ethernet
 * USB Mapping
