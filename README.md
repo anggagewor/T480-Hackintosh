@@ -13,23 +13,25 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 
 ## 🖥️ Spesifikasi Laptop
 
-| Komponen   | Detail                        |
-| ---------- | ----------------------------- |
-| Model      | Lenovo ThinkPad T480          |
-| CPU        | Intel Core i5-8350U (4C / 8T) |
-| iGPU       | Intel UHD Graphics 620        |
-| RAM        | 32 GB DDR4                    |
-| Storage    | m.2 SSD 512 GB               |
-| Storage    | nvme gen3x2 WD SN520 256 B+M (WWAN)              |
-| Layar      | 14" FHD 1920x1080             |
-| Audio      | Realtek (ALC series)          |
-| Wi‑Fi      | Intel (Heliport - Sonoma)    |
-| Bluetooth  | Intel Bluetooth               |
-| Camera     | Internal Webcam               |
-| Keyboard   | ThinkPad Keyboard (Backlight) |
-| TrackPoint | Working                       |
-| Touchpad   | Working                       |
-| Ethernet   | Intel Ethernet                |
+| Komponen   | Detail                                              |
+| ---------- | --------------------------------------------------- |
+| Model      | Lenovo ThinkPad T480                                |
+| CPU        | Intel Core i5-8350U (4C / 8T)                       |
+| iGPU       | Intel UHD Graphics 620                              |
+| RAM        | 32 GB DDR4                                          |
+| Storage    | SSD m.2 512 GB (macOS Only)                        |
+| Layar      | 14" FHD 1920x1080                                   |
+| Audio      | Realtek (ALC series - AppleALC)                     |
+| Wi-Fi      | Intel Wi-Fi 6E (AX210)                              |
+|            | - 802.11a/b/g/n/ac/ax                               |
+|            | - Tri-band: 2.4GHz / 5GHz / 6GHz                    |
+|            | - HeliPort (itlwm.kext - Sonoma)                    |
+| Bluetooth  | Intel Bluetooth 5.2 (BlueToolFixup)                 |
+| Camera     | Internal Webcam (USB)                               |
+| Keyboard   | ThinkPad Keyboard (Backlight - native)              |
+| TrackPoint | Working                                             |
+| Touchpad   | Working (VoodooPS2 / I2C)                           |
+| Ethernet   | Intel Ethernet (IntelMausi.kext)                    |
 
 ---
 
