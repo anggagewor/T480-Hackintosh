@@ -9,6 +9,7 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 
 ![About This Mac](assets/Screenshot%202025-12-24%20at%2012.09.29.png)
 
+![About This Mac](assets/seqouia.png)
 ---
 
 ## 🖥️ Spesifikasi Laptop
@@ -26,6 +27,7 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 |            | - 802.11a/b/g/n/ac/ax                               |
 |            | - Tri-band: 2.4GHz / 5GHz / 6GHz                    |
 |            | - HeliPort (itlwm.kext - Sonoma)                    |
+|            | - OpenCore Patcher (Sequoia)                    |
 | Bluetooth  | Intel Bluetooth 5.2 (BlueToolFixup)                 |
 | Camera     | Internal Webcam (USB)                               |
 | Keyboard   | ThinkPad Keyboard (Backlight - native)              |
@@ -37,7 +39,7 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 
 ## 💿 macOS Info
 
-* macOS Version: **Sonoma**
+* macOS Version: **Sequoia**
 * Bootloader: **OpenCore**
 * SMBIOS: **MacBookPro15,2** (subject to change)
 * File System: **APFS**
@@ -51,7 +53,9 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 * Sleep & Wake
 * Audio (Speaker & Jack)
   * (bug) kadang suara hilang, workaround nya buka system setting > sound (magic suara lgsg ada)
+  * (fixed)(sequoia) saat pake seqouia
 * Wi‑Fi
+  * (sequoia) patch
 * Bluetooth (partial)
   * TWS (work)
   * PS4 Wireless Controller (Work)
@@ -69,23 +73,6 @@ Repo ini fokus ke **stabilitas harian**, bukan eksperimen ekstrem.
 
 * Thunderbolt (Not tested)
 * Fingerprint Reader (Not supported in macOS)
-
----
-
-## 📂 Repository Structure
-
-```
-T480-Hackintosh
-├── EFI-{Version}
-│   ├── OC
-│   │   ├── ACPI
-│   │   ├── Drivers
-│   │   ├── Kexts
-│   │   └── config.plist
-├── assets
-│   └── Screenshot 2025-12-24 at 12.09.29.png
-└── README.md
-```
 
 ---
 
